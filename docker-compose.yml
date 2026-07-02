@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  # URL Frontier-এর জন্য Redis (সেন্ট্রালাইজড কিউ)
+  redis:
+    image: redis:7-alpine
+    container_name: crawler-redis
+    ports:
+      - "6379:6379"
+
+  # ডিস্ট্রিবিউটেড ইনভার্টেড ইনডেক্সিং ও সার্চের জন্য Elasticsearch
+  elasticsearch:
+    image: elasticsearch:8.12.2
+    container_name: crawler-elasticsearch
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    ports:
+      - "9200:9200"
