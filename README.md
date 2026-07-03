@@ -14,6 +14,10 @@ Crawls the web, indexes content, and delivers instant search results — just li
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-Tunnel-orange?style=flat-square&logo=cloudflare)](https://cloudflare.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
+<br>
+<a href="https://example-kingston-laughing-binding.trycloudflare.com">
+  <img src="https://img.shields.io/badge/🔴_LIVE_DEMO-Click_Here_to_Search!-red?style=for-the-badge" alt="Live Demo"/>
+</a>
 </div>
 
 ---
