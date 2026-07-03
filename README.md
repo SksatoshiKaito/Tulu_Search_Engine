@@ -15,9 +15,7 @@ Crawls the web, indexes content, and delivers instant search results — just li
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
 <br>
-<a href="https://example-kingston-laughing-binding.trycloudflare.com">
-  <img src="https://img.shields.io/badge/🔴_LIVE_DEMO-Click_Here_to_Search!-red?style=for-the-badge" alt="Live Demo"/>
-</a>
+
 </div>
 
 ---
@@ -219,16 +217,5 @@ Ahsanullah University of Science and Technology (AUST)
 
 ---
 
-## 📄 License
+<img width="1600" height="899" alt="WhatsApp Image 2026-07-03 at 12 07 15 PM" src="https://github.com/user-attachments/assets/338651bc-05ee-4c20-94b4-34e5a7e300a9" />
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-
-**⭐ If you found this project impressive, please give it a star!**
-
-*Built with ❤️ in Bangladesh 🇧🇩*
-
-</div>
