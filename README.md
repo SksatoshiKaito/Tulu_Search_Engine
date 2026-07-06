@@ -205,17 +205,9 @@ When a user types a query, the Java HTTP server sends a **multi-match query** to
 ### 4. Resilience
 The system is designed to **never lose data**. On restart, it checks if the Elasticsearch index exists before creating it. The Redis queue resumes from its last state, so no URLs are re-crawled unnecessarily.
 
----
-
-## 👤 Author
-
-**Hojaifa Sikder**  
-Student, Dept. of Computer Science & Engineering  
-Ahsanullah University of Science and Technology (AUST)
-
-[![GitHub](https://img.shields.io/badge/GitHub-SksatoshiKaito-black?style=flat-square&logo=github)](https://github.com/SksatoshiKaito)
 
 ---
+
 
 <img width="1600" height="899" alt="WhatsApp Image 2026-07-03 at 12 07 15 PM" src="https://github.com/user-attachments/assets/338651bc-05ee-4c20-94b4-34e5a7e300a9" />
 
